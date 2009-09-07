@@ -1,6 +1,6 @@
 === fotoRSS ===
 Contributors: evolutica, eightface
-Tags: poze, imagini, sidebar, widget, rss, romania, fotografii
+Tags: poze, imagini, sidebar, widget, rss, romania, fotografii, romana
 Requires at least: 2.6
 Tested up to: 2.7
 Stable tag: 1.0

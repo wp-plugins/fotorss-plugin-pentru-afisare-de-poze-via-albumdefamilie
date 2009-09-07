@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: fotoRss
-Plugin URI: http://blog.albumdefamilie.ro/foto-rss/
+Plugin URI: http://www.albumdefamilie.ro/api/plugins/
 Description: Poti integra poze de pe Albumdefamilie.ro in blog-ul tau folosind API-ul de feed rss.
 Version: 1.0
 License: GPL
